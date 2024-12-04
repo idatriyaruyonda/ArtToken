@@ -17,12 +17,12 @@ ArtToken is a blockchain-based platform for buying and selling digital art NFTs 
 
 ### Setup
 
-git clone https://github.com/your-username/arttoken.git
-cd arttoken
-npm install
-dfx start
-dfx deploy
-npm run dev
+- git clone https://github.com/your-username/arttoken.git
+- cd arttoken
+- npm install
+- dfx start
+- dfx deploy
+- npm run dev
 
 ### API Endpoints
 - POST /arttokens: Create a new ArtToken (NFT)
